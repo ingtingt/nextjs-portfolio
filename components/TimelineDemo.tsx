@@ -90,11 +90,11 @@ export function TimelineDemo() {
       ),
     },
     {
-      title: 'Changelog',
+      title: 'Currently',
       content: (
         <div>
           <p className="text-neutral-800 dark:text-neutral-200 text-xs md:text-sm font-normal mb-4">
-            Deployed 5 new components on Aceternity today
+            Learning NextJs React Nodejs
           </p>
           <div className="mb-8">
             <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
